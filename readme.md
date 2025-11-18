@@ -23,5 +23,3 @@ I'm a student at MRCM<br>I'm a Graphic designer and Website developer<br><br>ðŸŒ
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dineth2006&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
